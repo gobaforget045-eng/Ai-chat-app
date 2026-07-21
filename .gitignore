@@ -1,0 +1,12 @@
+.gradle/
+build/
+*.apk
+*.aar
+.idea/
+*.iml
+local.properties
+key.jks
+.DS_Store
+Thumbs.db
+output.json
+*.log
